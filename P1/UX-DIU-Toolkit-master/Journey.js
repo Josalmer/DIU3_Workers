@@ -32,6 +32,7 @@ angular.module("angular", [])
 				Id: 0,
 				Name: "Javier Crespo",
                 Photo: "javier.jpg",
+                Contextos: "LLeva un tiempo preocupado porque esta cogiendo unos kilos y quiere hacer deporte al aire libre", 
     
                 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Quiere conocer gente nueva para hacer senderismo",
@@ -89,21 +90,22 @@ angular.module("angular", [])
                 
 				Id: 1,
 				Name: "Amanda García",
-                Photo: "woman.png",
-    
+                Photo: "amanda.jpg",
+                Contextos: "Ultimamente se encuentra en baja forma y le gustaría empezar a hacer deporte. Ademas siente que puede ser un buen momento para vencer su timidez y conocer gente nueva.",  
+
                 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Quiere conocer gente y comenzar a practicar senderismo",
                 touch1: "ordenador",
                 feel1: "4",
                 con1: "No esta acostumbrada a hacer deporte y le gustaría practicar senderismo con gente de su perfil.",
-                ima1: "",
+                ima1: "cartoon-PCtyping.png",
 				
                 /*** PASO #2: DECICION ***/ 
                 goal2: "Pregunta a sus conocidos si saben de algún grupo que concuerde con lo que ella quiere.",
                 touch2: "Móvil (whatsapp)",
                 feel2: "2",
                 con2: "La gente de su círculo de amigos no está familiarizada con el tema",
-                ima2: "",
+                ima2: "cartoon-phone-sitting.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
@@ -111,7 +113,7 @@ angular.module("angular", [])
                 touch3: "ordenador",
                 feel3: "3",
                 con3: "Se encuentra con muchas webs con propuestas similares.",
-                ima3: "",
+                ima3: "cartoon-PCSurprised.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
@@ -119,7 +121,7 @@ angular.module("angular", [])
                 touch4: "Ordenador",
                 feel4: "2",
                 con4: "Casi todos los grupos son para hacer senderismo en fin de semana y ella prefiere hacerlo durante la semana por que el finde queda con sus amigas.",
-                ima4: "",
+                ima4: "cartoon-PChappy.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
@@ -127,8 +129,7 @@ angular.module("angular", [])
                 touch5: "Ordenador",
                 feel5: "4",
                 con5: "No sabe cuál elegir.",
-                ima5: "",
-                
+                ima5: "cartoon-deciding.png",
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
@@ -136,7 +137,7 @@ angular.module("angular", [])
                 touch6: "Ordenador",
                 feel6: "4",
                 con6: "",
-                ima6: "",
+                ima6: "cartoon-happy.png",
                 
 			}
 		];

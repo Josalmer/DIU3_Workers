@@ -35,7 +35,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> [Javier Crespo y Amanda García](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Josalmer/DIU3_Workers/master/P1/UX-DIU-Toolkit-master/indexP.html), hemos elegido estas personas porque creemos que es muy representativo de la sociedad en la que vivimos. En la que la gente cada vez esta más centrada en su trabajo y deja más de lado su vida personal, y en la que muchas personas se ven presionadas a hacer algo que no les apetece, y cuando se guian por sus preferencias sienten inseguridad por no hacer caso a su entorno
+>>> [Javier Crespo](https://github.com/Josalmer/DIU3_Workers/blob/master/P1/javier_crespo.png) y [Amanda García](https://github.com/Josalmer/DIU3_Workers/blob/master/P1/amanda.png), hemos elegido estas personas porque creemos que es muy representativo de la sociedad en la que vivimos. En la que la gente cada vez esta más centrada en su trabajo y deja más de lado su vida personal, y en la que muchas personas se ven presionadas a hacer algo que no les apetece, y cuando se guian por sus preferencias sienten inseguridad por no hacer caso a su entorno
 >>> 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map

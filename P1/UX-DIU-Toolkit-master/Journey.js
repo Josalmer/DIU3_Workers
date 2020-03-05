@@ -101,43 +101,43 @@ angular.module("angular", [])
                 ima1: "cartoon-PCtyping.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Pregunta a sus conocidos si saben de algún grupo que concuerde con lo que ella quiere.",
-                touch2: "Móvil (whatsapp)",
-                feel2: "2",
-                con2: "La gente de su círculo de amigos no está familiarizada con el tema",
-                ima2: "cartoon-phone-sitting.png",
+                goal2: "Decide buscar en diversas webs grupos de senderismo.",
+                touch2: "Ordenador",
+                feel2: "3",
+                con2: "Se encuentra con muchas webs con propuestas similares.",
+                ima2: "cartoon-PChappy.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar en diversas webs grupos de senderismo.",
-                touch3: "ordenador",
-                feel3: "3",
-                con3: "Se encuentra con muchas webs con propuestas similares.",
+                goal3: "Encuentra geokeda.es y busca un grupo para salir de senderismo o con la bici esta semana.",
+                touch3: "Ordenador",
+                feel3: "2",
+                con3: "No hay ningún grupo para salir esta semana.",
                 ima3: "cartoon-PCSurprised.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Encuentra en geokeda.es muchos grupos de senderismo y busca uno que le venga bien por horarios. ",
+                goal4: "Decide crear ella un evento para esta semana.",
                 touch4: "Ordenador",
-                feel4: "2",
-                con4: "Casi todos los grupos son para hacer senderismo en fin de semana y ella prefiere hacerlo durante la semana por que el finde queda con sus amigas.",
-                ima4: "cartoon-PChappy.png",
+                feel4: "1",
+                con4: "Al darle a 'crear evento' la web vuelve a la página principal y no puede crearlo.",
+                ima4: "cartoon-PCangry.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 2 grupos que encajan con lo que ella busca.",
+                goal5: "Tras intentarlo varias veces descubre otra forma de crear evento, esta vez desde el horario de la página.",
                 touch5: "Ordenador",
                 feel5: "4",
-                con5: "No sabe cuál elegir.",
-                ima5: "cartoon-deciding.png",
+                con5: "",
+                ima5: "cartoon-PChappy.png",
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Como son en días distintos y le viene bien ambos planes, decide apuntarse a los 2.",
+                goal6: "Crea el evento para esta semana.",
                 touch6: "Ordenador",
-                feel6: "4",
-                con6: "",
-                ima6: "cartoon-happy.png",
+                feel6: "1",
+                con6: "Nadie se apunta por que la web esta muerta y no hay usuarios.",
+                ima6: "cartoon-PCcrying.png",
                 
 			}
 		];

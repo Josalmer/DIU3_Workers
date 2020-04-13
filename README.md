@@ -24,7 +24,7 @@ Miembros
 
 ### ¿Quien se apunta a hacer deporte?
 
-## Introducción
+# Introducción
 
 #### ¿Habrá más gente con ganas de salir a hacer deporte?
 
@@ -49,7 +49,7 @@ El Ayuntamiento pretende exportar esta aplicación a otras regiones si funciona
 
 ----- 
 
-## La Oportunidad
+# La Oportunidad
 
 Nos permite trabajar con:
 
@@ -63,7 +63,7 @@ Nos permite trabajar con:
 
 ----- 
 
-## Usuarios potenciales y contexto
+# Usuarios potenciales y contexto
 
 ### ¿Quiénes son nuestros usuarios y que necesitan?
 
@@ -85,7 +85,7 @@ Se encuentran generalmente en un entorno urbano, cada vez más distanciado del m
 
 ----- 
 
-## ![Método UX](img/Competitive.png) Análisis de la competencia
+# ![Método UX](img/Competitive.png) Análisis de la competencia
 
 Se analizan 5 plataformas de compartir experiencias, ya que ofrecen servicios similares a los que nosotros queremos ofrecer.
 Más concretamente se analizan: Meetup, Planandgoapp, Eatwith, Timpik, Geokeda
@@ -102,7 +102,7 @@ Si quiere ver el análisis de usabilidad completo [haga click aquí](https://git
 
 ----- 
 
-## ![Método UX](img/Persona.png) Personas
+# ![Método UX](img/Persona.png) Personas
 
 ### Javier y Amanda
 
@@ -128,7 +128,7 @@ Experiencia de [Javier Crespo](https://github.com/Josalmer/DIU3_Workers/blob/mas
 
 ----- 
 
-## Feedback de la investigación realizada con el análisis competitivo y la experiencia de nuestras personas
+# Feedback de la investigación realizada con el análisis competitivo y la experiencia de nuestras personas
 
 Con la idea de tener un punto de partida para el diseño de nuestra aplicación, tratamos de sintetizar las ideas obtenidas tras realizar el análisis competitivo y el análisis de la experiencia de nuestras personas
 
@@ -136,37 +136,39 @@ Con la idea de tener un punto de partida para el diseño de nuestra aplicación,
 
 <img src="img/Grid.png" width="60%"/>
 
-[Ver malla](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/malla%20receptora%20de%20informacion.pdf)
-
-Tras analizar toda esta información, decidimos hacer una aplicación sencilla, intuitiva y rápida que girara en torno al calendario y el mapa. 
+Tras analizar [toda esta información](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/malla%20receptora%20de%20informacion.pdf), decidimos hacer una aplicación sencilla, intuitiva y rápida que girara en torno al calendario y el mapa. 
 > Ambas herramientas en combinación nos darán fecha y localización mediante las cuales se filtraran los eventos que se muestran, si nos desplazamos en el mapa a Sevilla veremos los eventos en Sevilla, si desplazamos el calendario al mes de Mayo, veremos los eventos en en Sevilla el mes de Mayo. Por otro lado también se le dará importancia a un catálogo de rutas predefinidas que los administradores de la aplicación gestionaran.
 
 ----- 
 
-## Diseño
+# Diseño
 
 ### Task Flow
 
 En este apartado vamos a definir la secuencia de pasos que los usuarios tendrán que realizar para llevar a cabo las principales tareas que la aplicación permite.
-> Como usuario quiero crear un evento, consultar un evento, comentar en un evento, apuntarme a un evento, consultar las rutas predefinidas y crear una nueva ruta predefinida
+> Como usuario quiero crear un evento, consultar un evento, comentar en un evento, apuntarme a un evento, consultar las rutas predefinidas y crear una nueva ruta predefinida, [click aquí para ver todos](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/task_flow.pdf)
 
 <img src="img/UserFlow.png" width="60%"/>
 
-["Ver al detalle"](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/task_flow.pdf)
-
 ### ![Método UX](img/Sitemap.png) Sitemap y Labelling
 
-Mapa del sitio que indica las distintas vistas que tendrá la aplicación y cómo se navega de unas a otras.
+[Mapa del sitio](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/sitemap.pdf) que indica las distintas vistas que tendrá la aplicación y cómo se navega de unas a otras y [labelling o etiquetado](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/labelling.pdf)
 
 <img src="img/Arquitectura.png" width="60%"/>
 
-["Sitemap"](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/sitemap.pdf)
-["Labelling"](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/labelling.pdf)
-
 ### ![Método UX](img/Wireframes.png) Bocetos Lo-Fi
 
-Inicialmente se realizan unos bocetos a mano y unos Wireframe. Posteriormente se llevan a un siguiente nivel donde se pueda explicar mejor que hay en cada vista y como se distribuye.
-<img src="img/bocetos1.png" width="60%"/>
-<img src="img/bocetos2.png" width="60%"/>
-<img src="img/bocetos3.png" width="60%"/>
-<img src="img/bocetos4.png" width="30%"/>
+Inicialmente se realizan unos bocetos a mano y unos Wireframe. Posteriormente se llevan a un siguiente nivel donde se pueda explicar mejor que hay en cada vista y como se distribuye, [click aquí para ver todos](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/bocetos.pdf)
+
+<img src="img/bocetos1.png" width="450px" height="410px"/><img src="img/bocetos2.png" width="450px" height="410px"/>
+<img src="img/bocetos3.png" width="450px" height="410px"/><img src="img/bocetos4.png" width="225px" height="410px"/>
+
+## Guia de estilos
+
+Guia de colores: Para los colores hemos tomado la decisión de que el color predominante sea el verde para que el usuario relacione nuestra aplicación web con la naturaleza. 
+> De modo que hemos tomado para los fondos un tono verde claro que no moleste a la hora de ver el contenido de la pagina y para bordes, iconos y barras un tono verde oscuro que resalten estos elementos. Para barras de navegación, filtros y algunos fondos hemos elegido en blanco por que es el más cómodo para ver la información que hay encima. Para algunos elementos y botones que queremos destacar hemos elegido un tono azul que hace que sean distintivos y a la vez es un color que no desentona con los tonos verdes y blanco del resto de la app. Y finalmente para la tipografía hemos elegido el color negro ya que es el que permite una mejor lectura de lo que hay escrito.
+
+Tipografía: Para la tipografía hemos elegido la fuente "Verdana". 
+> El motivo es que es una fuente de gran legibilidad y que, al contrario que otras fuentes, no hace que centres tu atención en la fuente permitiendo así una mejor lectura del contenido para el usuario. 
+
+<img src="img/styles.jpeg" width="60%"/>

@@ -41,16 +41,19 @@ No creemos que sea una herramienta muy útil, pues las conclusiones que se puede
 
 ### Problemas que debemos evitar, cosas que debemos incluir (como en la revisión de la usabilidad de la P1 y el feedback-capture-grid de la P2)
 
+#### User flow:
+En esta sección tenemos un concepto similar al de los diseñadores de MuseMap pero a diferencia de ellos nuestro flujo esta orientado a las tareas de la aplicación y no a los usuarios en si. Pensamos que ambos métodos son igualmente válidos.
 
-
-
-
-
-
-
+#### Feature Prioritisation:
+Los diseñadores de Muse Map han realizado una matriz de 2x2 en la que pueden situar los elementos del desarrollo en función de cuanto de necearios son y cuál es el esfuerzo de realizarlos. Por el contrario, nosotros hemos hecho una malla de receptora de información, la cual pensamos que es más útil puesto que nos aporta gran información de hacia donde tenemos que orientar el proyecto para conseguir un mejor resultado y no pensar tanto en el trabajo que costará realizarlo.
 
 ## Decisiones sobre patrones y diseño a aplicar en el prototipo de alta definición
+Guia de colores: Para los colores hemos tomado la decisión de que el color predominante sea el verde para que el usuario relacione nuestra aplicación web con la naturaleza. 
+> De modo que hemos tomado para los fondos un tono verde claro que no moleste a la hora de ver el contenido de la pagina y para bordes, iconos y barras un tono verde oscuro que resalten estos elementos. Para barras de navegación, filtros y algunos fondos hemos elegido en blanco por que es el más cómodo para ver la información que hay encima. Para algunos elementos y botones que queremos destacar hemos elegido un tono azul que hace que sean distintivos y a la vez es un color que no desentona con los tonos verdes y blanco del resto de la app. Y finalmente para la tipografía hemos elegido el color negro ya que es el que permite una mejor lectura de lo que hay escrito.
 
+Tipografía: Para la tipografía hemos elegido la fuente "Verdana". 
+> El motivo es que es una fuente de gran legibilidad y que, al contrario que otras fuentes, no hace que centres tu atención en la fuente permitiendo así una mejor lectura del contenido para el usuario. 
+<img src="../img/styles.jpeg" width="60%"/>
 
+## Valoración personal
 
-## Documenta: Incluye en P3/readme.md a modo de comentarios o conclusiones una valoración personal del equipo sobre la realización de esta práctica o los problemas surgidos.

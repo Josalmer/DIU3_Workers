@@ -24,7 +24,7 @@ Miembros
 
 ### ¿Quien se apunta a hacer deporte?
 
-# Introducción
+# 1 Introducción
 
 #### ¿Habrá más gente con ganas de salir a hacer deporte?
 
@@ -49,7 +49,9 @@ El Ayuntamiento pretende exportar esta aplicación a otras regiones si funciona
 
 ----- 
 
-# La Oportunidad
+# 2 Investigación de usuarios
+
+## 2.1 La Oportunidad
 
 Nos permite trabajar con:
 
@@ -63,7 +65,7 @@ Nos permite trabajar con:
 
 ----- 
 
-# Usuarios potenciales y contexto
+## 2.2 Usuarios potenciales y contexto
 
 ### ¿Quiénes son nuestros usuarios y que necesitan?
 
@@ -85,7 +87,7 @@ Se encuentran generalmente en un entorno urbano, cada vez más distanciado del m
 
 ----- 
 
-# ![Método UX](img/Competitive.png) Análisis de la competencia
+# ![Método UX](img/Competitive.png) 3 Análisis de la competencia
 
 Se analizan 5 plataformas de compartir experiencias, ya que ofrecen servicios similares a los que nosotros queremos ofrecer.
 Más concretamente se analizan: Meetup, Planandgoapp, Eatwith, Timpik, Geokeda
@@ -102,9 +104,9 @@ Si quiere ver el análisis de usabilidad completo [haga click aquí](https://git
 
 ----- 
 
-# ![Método UX](img/Persona.png) Personas
+# ![Método UX](img/Persona.png) 4 Personas
 
-### Javier y Amanda
+### 4.1 Javier y Amanda
 
 Diseñamos unas personas ficticias para utilizar distintos puntos de vista durante las pruebas de la UX, ya que es recomendable abstraernos y olvidarnos de nuestras inquietudes, para pasar a ponernos en el lugar de que haría un usuario que tiene sus propias circunstancias.
 
@@ -116,7 +118,7 @@ Diseñamos unas personas ficticias para utilizar distintos puntos de vista duran
 
 <img src="P1/javier_crespo.png" width="100%"/>
 
-### ![Método UX](img/JourneyMap.png) La experiencia de Javier y Amanda en Geokeda
+### ![Método UX](img/JourneyMap.png) 4.2 La experiencia de Javier y Amanda en Geokeda
 
 Javier y Amanda quieren hacer senderismo y recurren a Geokeda
 
@@ -128,7 +130,7 @@ Experiencia de [Javier Crespo](https://github.com/Josalmer/DIU3_Workers/blob/mas
 
 ----- 
 
-# Feedback de la investigación realizada con el análisis competitivo y la experiencia de nuestras personas
+# 5 Feedback de la investigación realizada con el análisis competitivo y la experiencia de nuestras personas
 
 Con la idea de tener un punto de partida para el diseño de nuestra aplicación, tratamos de sintetizar las ideas obtenidas tras realizar el análisis competitivo y el análisis de la experiencia de nuestras personas
 
@@ -141,29 +143,28 @@ Tras analizar [toda esta información](https://github.com/Josalmer/DIU3_Workers/
 
 ----- 
 
-# Diseño
+# 6 Diseño
 
-### Task Flow
+## 6.1 Task Flow
 
 En este apartado vamos a definir la secuencia de pasos que los usuarios tendrán que realizar para llevar a cabo las principales tareas que la aplicación permite.
 > Como usuario quiero crear un evento, consultar un evento, comentar en un evento, apuntarme a un evento, consultar las rutas predefinidas y crear una nueva ruta predefinida, [click aquí para ver todos](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/task_flow.pdf)
 
 <img src="img/UserFlow.png" width="60%"/>
 
-### ![Método UX](img/Sitemap.png) Sitemap y Labelling
+## ![Método UX](img/Sitemap.png) 6.2 Sitemap y Labelling
 
 [Mapa del sitio](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/sitemap.pdf) que indica las distintas vistas que tendrá la aplicación y cómo se navega de unas a otras y [labelling o etiquetado](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/labelling.pdf)
 
 <img src="img/Arquitectura.png" width="60%"/>
 
-### ![Método UX](img/Wireframes.png) Bocetos Lo-Fi
+## ![Método UX](img/Wireframes.png) 6.3 Wireframe y bocetos a mano
 
-Inicialmente se realizan unos bocetos a mano y unos Wireframe. Posteriormente se llevan a un siguiente nivel donde se pueda explicar mejor que hay en cada vista y como se distribuye, [click aquí para ver todos](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/bocetos.pdf)
+Inicialmente se realizan unos bocetos a mano y unos Wireframe centrandonos principalmente en como es van a distribuir los elementos en las distintas vistas. 
 
-<img src="img/bocetos1.png" width="450px" height="410px"/><img src="img/bocetos2.png" width="450px" height="410px"/>
-<img src="img/bocetos3.png" width="450px" height="410px"/><img src="img/bocetos4.png" width="225px" height="410px"/>
+<img src="P2/wireframe.jpeg" width="100%"/>
 
-## Guia de estilos
+## ![Método UX](img/moodboard.png) 6.4 Guia de estilos
 
 Guia de colores: Para los colores hemos tomado la decisión de que el color predominante sea el verde para que el usuario relacione nuestra aplicación web con la naturaleza. 
 > De modo que hemos tomado para los fondos un tono verde claro que no moleste a la hora de ver el contenido de la pagina y para bordes, iconos y barras un tono verde oscuro que resalten estos elementos. Para barras de navegación, filtros y algunos fondos hemos elegido en blanco por que es el más cómodo para ver la información que hay encima. Para algunos elementos y botones que queremos destacar hemos elegido un tono azul que hace que sean distintivos y a la vez es un color que no desentona con los tonos verdes y blanco del resto de la app. Y finalmente para la tipografía hemos elegido el color negro ya que es el que permite una mejor lectura de lo que hay escrito.
@@ -172,3 +173,20 @@ Tipografía: Para la tipografía hemos elegido la fuente "Verdana".
 > El motivo es que es una fuente de gran legibilidad y que, al contrario que otras fuentes, no hace que centres tu atención en la fuente permitiendo así una mejor lectura del contenido para el usuario. 
 
 <img src="img/styles.jpeg" width="60%"/>
+
+## ![Método UX](img/Patterns.png) 6.5 Patrones de diseño
+
+Al estar nuestra aplicación centrada tanto en el calendario como el mapa hemos investigado sobre el diseño de estos modulos y nos hemos encontrado con los siguientes articulos. 
+
+> https://www.smashingmagazine.com/2010/08/the-importance-of-consistency-using-editorial-calendars-and-style-guides/
+>
+> https://www.smashingmagazine.com/2010/04/maps-in-modern-web-design/
+
+En ellos hemos encontrado varias ideas sobre como podemos hacer que los modulos de mapa y calendario no solo sean el núcleo de nuestra aplicación sino tambien un elemento distintivo con el resto de webs competidoras.
+
+## ![Método UX](img/Prototype.png) 6.6 Bocetos Lo-Fi
+
+Posteriormente se llevan a un siguiente nivel donde se pueda explicar mejor que hay en cada vista y como se distribuye, [click aquí para ver todos](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/bocetos.pdf)
+
+<img src="img/bocetos1.png" width="450px" height="410px"/><img src="img/bocetos2.png" width="450px" height="410px"/>
+<img src="img/bocetos3.png" width="450px" height="410px"/><img src="img/bocetos4.png" width="225px" height="410px"/>

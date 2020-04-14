@@ -55,5 +55,14 @@ Tipografía: Para la tipografía hemos elegido la fuente "Verdana".
 > El motivo es que es una fuente de gran legibilidad y que, al contrario que otras fuentes, no hace que centres tu atención en la fuente permitiendo así una mejor lectura del contenido para el usuario. 
 <img src="../img/styles.jpeg" width="60%"/>
 
+Al estar nuestra aplicación centrada tanto en el calendario como el mapa hemos investigado sobre el diseño de estos modulos y nos hemos encontrado con los siguientes articulos. 
+
+> https://www.smashingmagazine.com/2010/08/the-importance-of-consistency-using-editorial-calendars-and-style-guides/
+>
+> https://www.smashingmagazine.com/2010/04/maps-in-modern-web-design/
+
+En ellos hemos encontrado varias ideas sobre como podemos hacer que los modulos de mapa y calendario no solo sean el núcleo de nuestra aplicación sino tambien un elemento distintivo con el resto de webs competidoras.
+
 ## Valoración personal
 
+> El desarrollo de esta tercera práctica nos ha ayudado a conocer herramientas distintas a las que hemos ido utilizando en el trascurso de la asignatura. Muchas de ellas nos han parecido muy interesantes de cara a utilizarlas en futuros proyectos y otras que nos han hecho cambiar y mejorar el diseño de esta práctica actual, como es el caso de los patrones de diseño para el mapa y el calendario. Por último destacar la importancia de una buena configuración de colores y tipografia para obtener un buen diseño en cualquier desarollo visual.

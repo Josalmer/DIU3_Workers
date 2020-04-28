@@ -24,6 +24,8 @@ Miembros
 
 ### ¿Quien se apunta a hacer deporte?
 
+[Ver Vídeo UX Case Story](https://player.vimeo.com/video/410735968)
+
 # 1 Introducción
 
 #### ¿Habrá más gente con ganas de salir a hacer deporte?

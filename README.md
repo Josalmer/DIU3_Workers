@@ -192,3 +192,47 @@ Posteriormente se llevan a un siguiente nivel donde se pueda explicar mejor que 
 
 <img src="img/bocetos1.png" width="450px" height="410px"/><img src="img/bocetos2.png" width="450px" height="410px"/>
 <img src="img/bocetos3.png" width="450px" height="410px"/><img src="img/bocetos4.png" width="225px" height="410px"/>
+
+# 7. Evaluación 
+
+![Método UX](img/ABtesting.png) 7.a Casos asignados
+----
+Hemos analizado las siguientes aplicaciones:
+>>### DIU2.SVPJ - Alquila Piso
+>>https://github.com/sergiovp/DIU
+>>Una aplicación para compartir alojamiento.
+>
+>>### DIU2.TeTic - Free Sofa
+>>https://github.com/migueg/DIU20
+>>Una plataforma de economía colaborativa en lo referente a compartir alojamiento.
+>
+>>### DIU3.UserLAB - HomeShow
+>>https://github.com/miguelroldanc/DIU20
+>>Una aplicación que pretende innovar en el sector cultural y que nos permitirá buscar eventos.
+
+![Método UX](img/usability-testing.png) 7.b User Testing
+----
+Nuestras personas ficticias tienen las siguientes experiencias con los distintos sistemas testeados.
+>>### Alquila Piso
+>>Javier busca alojamiento para el fin de semana, pero sospecha que se puede tratar de un timo porque el precio era demasiado bajo y le piden dinero por adelantado. Manda un mensaje a soporte a través del chat pero tardan un par de días en contestarle. Piensa que debería haber algún sistema para reportar estas cosas, de forma que le salte una alarma inmediata a los administradores del sistema.
+>
+>>### Free Sofa
+>>Amanda quiere utilizar la aplicación Free Sofa para ver que opciones hay para alojamiento compartido. Se encuentra con el problema de que necesita estar registrada para poderla utilizar. Ella no quería registrarse hasta ver que con esta aplicación encontraba lo que estaba buscando.
+>
+>>### HomeShow
+>>Amanda quiere buscar planes para este verano en Sevilla, entra en la web de HomeShow pero se encuentra una lista con todos los eventos existentes en la web y ninguna forma de filtrar y buscar los eventos de su zona. Al no poder buscar y encontrar lo que le interesa decide buscar otras opciones fuera de HomeShow
+
+![Método UX](img/Survey.png). 7.c Ranking 
+----
+Tras realizar el análisis de las 3 aplicaciones, en este apartado exponemos el ranking y las conclusiones del mismo.
+
+<img src="P4/ranking.jpeg" width="60%"/>
+
+>>### DIU2.SVPJ - Alquila Piso - 90 (excellent)
+>>Muy buen trabajo, y muy buen video. La idea para el producto es buena, aunque algunas vistas del diseño estan un poco sobrecargadas.
+>
+>>### DIU2.TeTic - Free Sofa - 85 (good)
+>>Comentario sobre la valoración: Muy buen trabajo en general, aunque creemos que no entendio bien lo que se pedía para el video. La idea para el producto tiene sentido, y el diseño es amigable e intuitivo.
+>
+>>### DIU3.UserLAB - HomeShow - 51 (moderate)
+>>Un trabajo pobre en general, le falta mucho contenido y lo realizado no acaba de estar bien. Pensamos que no ha entendido lo que se pedía realizar en estas prácticas por como hace, por ejemplo, la P1 entera basandose en su aplicación sin tomar encuenta ninguna otra web.

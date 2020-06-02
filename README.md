@@ -100,7 +100,7 @@ En dicho análisis de Geokeda realizamos una revisión de usabilidad, con la ide
 Las conclusiones de dicho análisis son:
 > La web tiene algunas cosas bastante buenas, pero muchas cosas en las que mejorar. Como aspecto más destacable y grave, el tema de que la web no sea responsive, cosa que en los tiempos actuales no tiene mucho sentido porque el acceso a este tipo de sitios se realiza cada vez más desde dispositivos moviles.
 
-<img src="img/UsabilityReview.png" width="100%"/>
+<img src="img/usabilityReview_2.png" width="100%"/>
 
 Si quiere ver el análisis de usabilidad completo [haga click aquí](https://github.com/Josalmer/DIU3_Workers/blob/master/P1/Usability-review.pdf)
 
@@ -126,6 +126,7 @@ Javier y Amanda quieren hacer senderismo y recurren a Geokeda
 
 Experiencia de [Javier Crespo](https://github.com/Josalmer/DIU3_Workers/blob/master/P1/javier_journey.png) y experiencia de [Amanda García](https://github.com/Josalmer/DIU3_Workers/blob/master/P1/amanda_journey.png) 
 
+<img src="P1/amanda_journey.png" width="100%"/>
 <img src="P1/javier_journey.png" width="100%"/>
 
 > Como podemos ver Amanda ha tenido más suerte que Javier. Cada vez la gente usa más la web para organizar planes sociales, creemos que experiencias similares a las que Javier y Amanda han tenido se dan con bastante frencuencia

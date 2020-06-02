@@ -31,7 +31,18 @@ A continuación se resume la valoración recibida por parte de los compañeros y
 
 A continuación se enumeran los aspectos identificados en este feedback que se van a rediseñar:
 
-3. esto y auell
-4. asuqeu
+3. Añadir experiencia de Javier a readme principal
+4. Realizar User-Task-Matrix
 
 ----- 
+
+## Rediseño
+
+Se van a llevar a cabo las tareas indicadas en el apartado anterior 
+
+>> 1. Añadir enlace a vídeo desde readme de P3
+>> 2. Añadir comentarios sobre vídeo en readme de P3
+>> 3. Añadir experiencia de Javier a readme principal
+>> 4. Realizar User-Task-Matrix
+
+>> Destacar que cuando se realizo la práctica 2 se decidio hacer un User Task Flow en vez de una User Task Matrix, pero como a los compañeros no les ha gustado ya que han valorado con very poor el no haberla hecho (en vez de N/A), he pensado que añadirla puede darle un extra de completitud al trabajo realizado

@@ -236,3 +236,22 @@ Tras realizar el análisis de las 3 aplicaciones, en este apartado exponemos el 
 >
 >>### DIU3.UserLAB - HomeShow - 51 (moderate)
 >>Un trabajo pobre en general, le falta mucho contenido y lo realizado no acaba de estar bien. Pensamos que no ha entendido lo que se pedía realizar en estas prácticas por como hace, por ejemplo, la P1 entera basandose en su aplicación sin tomar encuenta ninguna otra web.
+
+----- 
+
+# EXTRA. Rediseño 
+
+Tras recibir de parte de los profesores de la asignatura, los documentos que contienen el feedback del trabajo realizado, se lleva a cabo, por parte de Jose Saldaña, [un análisis de dicho feedback, y se rediseñan los aspectos más significativos del mismo](https://github.com/Josalmer/DIU3_Workers/blob/master/rediseño)
+
+A continuación se resume la valoración recibida por parte de los compañeros
+>> [DIU3.rushB    -- 85/100](https://github.com/Josalmer/DIU3_Workers/blob/master/rediseño/DIU3.workers_reviewby_DIU3.rushB.pdf)
+>>
+>> [DIU3.UserLAB  -- 97/100](https://github.com/Josalmer/DIU3_Workers/blob/master/rediseño/DIU3.workers_reviewby_DIU3.UserLAB.pdf)
+>>
+>> [DIU1.QWERTY   -- 86/100](https://github.com/Josalmer/DIU3_Workers/blob/master/rediseño/DIU3.workers_reviewedby_DIU1.QWERTY.pdf)
+>>
+>> [DIU2.MJ       -- 89/100](https://github.com/Josalmer/DIU3_Workers/blob/master/rediseño/DIU3.workers-reviewby_DIU2.MJ.pdf)
+>>
+>> Average        -- 89/100
+
+----- 

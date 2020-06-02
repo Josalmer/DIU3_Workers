@@ -24,6 +24,10 @@ Se realiza el presente estudio con la finalidad de tener un punto de partida par
 >>> Como administrador quiero crear una nueva ruta predefinida
 >>> ["Task Flow"](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/task_flow.pdf)
 
+>>> En este apartado representamos la user task matrix como una tabla, donde cada fila se corresponde con una actividad, y cada columna con un tipo de  suario de la aplicación. El valor en cada casilla se corresponde con la frecuencia con que dicho usuario realizará la acción de esa fila. (H)ight, (M)edium, (L)ow, cuando el usuario no puede realizar una acción o no sería normal que lo hiciera se deja dicha celda en blanco.
+>>> Se indica con fondo gris, las tareas más críticas.
+>>> ["User Task Matrix"](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/user_task_matrix.pdf)
+
 >>> Mapa del sitio que indica las distintas vistas que tendrá la aplicación y cómo se navega de unas a otras.
 >>> ["Sitemap"](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/sitemap.pdf)
 >>> ["Labelling"](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/labelling.pdf)

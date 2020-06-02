@@ -155,19 +155,26 @@ En este apartado vamos a definir la secuencia de pasos que los usuarios tendrán
 
 <img src="img/UserFlow.png" width="60%"/>
 
-## ![Método UX](img/Sitemap.png) 6.2 Sitemap y Labelling
+## 6.2 User Task Matrix
+
+En este apartado representamos la user task matrix como una tabla, donde cada fila se corresponde con una actividad, y cada columna con un tipo de  suario de la aplicación. 
+> El valor en cada casilla se corresponde con la frecuencia con que dicho usuario realizará la acción de esa fila. (H)ight, (M)edium, (L)ow, cuando el usuario no puede realizar una acción o no sería normal que lo hiciera se deja dicha celda en blanco.
+> Se indica con fondo gris, las tareas más críticas.
+<img src="P2/user_task_matrix_image.png" width="60%"/>
+
+## ![Método UX](img/Sitemap.png) 6.3 Sitemap y Labelling
 
 [Mapa del sitio](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/sitemap.pdf) que indica las distintas vistas que tendrá la aplicación y cómo se navega de unas a otras y [labelling o etiquetado](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/labelling.pdf)
 
 <img src="img/Arquitectura.png" width="60%"/>
 
-## ![Método UX](img/Wireframes.png) 6.3 Wireframe y bocetos a mano
+## ![Método UX](img/Wireframes.png) 6.4 Wireframe y bocetos a mano
 
 Inicialmente se realizan unos bocetos a mano y unos Wireframe centrandonos principalmente en como es van a distribuir los elementos en las distintas vistas. 
 
 <img src="P2/wireframe.jpeg" width="100%"/>
 
-## ![Método UX](img/moodboard.png) 6.4 Guia de estilos
+## ![Método UX](img/moodboard.png) 6.5 Guia de estilos
 
 Guia de colores: Para los colores hemos tomado la decisión de que el color predominante sea el verde para que el usuario relacione nuestra aplicación web con la naturaleza. 
 > De modo que hemos tomado para los fondos un tono verde claro que no moleste a la hora de ver el contenido de la pagina y para bordes, iconos y barras un tono verde oscuro que resalten estos elementos. Para barras de navegación, filtros y algunos fondos hemos elegido en blanco por que es el más cómodo para ver la información que hay encima. Para algunos elementos y botones que queremos destacar hemos elegido un tono azul que hace que sean distintivos y a la vez es un color que no desentona con los tonos verdes y blanco del resto de la app. Y finalmente para la tipografía hemos elegido el color negro ya que es el que permite una mejor lectura de lo que hay escrito.
@@ -177,7 +184,7 @@ Tipografía: Para la tipografía hemos elegido la fuente "Verdana".
 
 <img src="img/styles.jpeg" width="60%"/>
 
-## ![Método UX](img/Patterns.png) 6.5 Patrones de diseño
+## ![Método UX](img/Patterns.png) 6.6 Patrones de diseño
 
 Al estar nuestra aplicación centrada tanto en el calendario como el mapa hemos investigado sobre el diseño de estos modulos y nos hemos encontrado con los siguientes articulos. 
 
@@ -187,7 +194,7 @@ Al estar nuestra aplicación centrada tanto en el calendario como el mapa hemos 
 
 En ellos hemos encontrado varias ideas sobre como podemos hacer que los modulos de mapa y calendario no solo sean el núcleo de nuestra aplicación sino tambien un elemento distintivo con el resto de webs competidoras.
 
-## ![Método UX](img/Prototype.png) 6.6 Bocetos Lo-Fi
+## ![Método UX](img/Prototype.png) 6.7 Bocetos Lo-Fi
 
 Posteriormente se llevan a un siguiente nivel donde se pueda explicar mejor que hay en cada vista y como se distribuye, [click aquí para ver todos](https://github.com/Josalmer/DIU3_Workers/blob/master/P2/bocetos.pdf)
 

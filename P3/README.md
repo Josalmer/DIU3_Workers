@@ -14,6 +14,7 @@ Por otro lado nosotros realizamos un Usability Review sobre un competidor que en
 
 Nos fijamos que en este apartado, los diseñadores de MuseMap han realizado diversos métodos antes de diseñar las personas.
 Estás tareas son:
+
 #### Empathy Map: 
 > En el que plantean las carácteristicas que podrían tener sus usuarios potenciales, utilizan las conclusiones de este para plantear una serie de preguntas que llevarán a cabo en su siguiente método, las entrevistas a usuarios.
 
@@ -63,6 +64,15 @@ Al estar nuestra aplicación centrada tanto en el calendario como el mapa hemos 
 
 En ellos hemos encontrado varias ideas sobre como podemos hacer que los modulos de mapa y calendario no solo sean el núcleo de nuestra aplicación sino tambien un elemento distintivo con el resto de webs competidoras.
 
+## Vídeo 
+
+> El vídeo se realizo grabando la pantalla mientras se hacía una video llamada. La vídeo llamada era algo de fondo, pero nos permite a ambos aparecer junto a la presentación.
+> 
+> En la primera parte del vídeo se habla sobre el producto, mientras que en la segunda parte se habla sobre el proceso de diseño que se ha llevado a cabo.
+>
+> [Ver Vídeo UX Case Story](https://player.vimeo.com/video/410735968)
+
 ## Valoración personal
 
 > El desarrollo de esta tercera práctica nos ha ayudado a conocer herramientas distintas a las que hemos ido utilizando en el trascurso de la asignatura. Muchas de ellas nos han parecido muy interesantes de cara a utilizarlas en futuros proyectos y otras que nos han hecho cambiar y mejorar el diseño de esta práctica actual, como es el caso de los patrones de diseño para el mapa y el calendario. Por último destacar la importancia de una buena configuración de colores y tipografia para obtener un buen diseño en cualquier desarollo visual.
+

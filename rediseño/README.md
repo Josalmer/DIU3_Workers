@@ -6,13 +6,12 @@ Tras recibir de parte de los profesores de la asignatura, los documentos que con
 
 Se comienza haciendo un análisis del feedback recibido de la profesora Dña Rosana Montes, para ver que aspectos se pueden mejorar en esta fase de rediseño.
 
-<img src="profesores_feedback.png" width="60%"/>
+<img src="profesores_feedback.png" width="80%"/>
 
 A continuación se enumeran los aspectos identificados en este feedback que se van a rediseñar:
 
-1. akaks
-2. asdad
-3. adasdasd
+1. Añadir enlace a vídeo desde readme de P3
+2. Añadir comentarios sobre vídeo en readme de P3
 
 ----- 
 
@@ -32,7 +31,7 @@ A continuación se resume la valoración recibida por parte de los compañeros y
 
 A continuación se enumeran los aspectos identificados en este feedback que se van a rediseñar:
 
-4. esto y auell
-5. asuqeu
+3. esto y auell
+4. asuqeu
 
 ----- 
